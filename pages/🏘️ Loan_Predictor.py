@@ -80,8 +80,8 @@ st.markdown("""
 Enter the applicant's details below to predict wether the loan application is likly to be approved.
 """)
 
-pipeline = joblib.load(r"C:\Users\hp\projects\Creditwise_Dashboard\model\pipeline.pkl")
-target_encoder = joblib.load(r"C:\Users\hp\projects\Creditwise_Dashboard\model\target_encoder.pkl")
+pipeline = joblib.load("model/pipeline.pkl")
+target_encoder = joblib.load("model/target_encoder.pkl")
 
 
 with st.container(border=True):
