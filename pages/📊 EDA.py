@@ -179,5 +179,3 @@ Developed by <b>Roshni Jaiswal ❤️</b> using python, Scikit-learn and Streaml
 </p>
 </div>
 """,unsafe_allow_html=True)
-
-
