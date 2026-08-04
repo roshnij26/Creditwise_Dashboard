@@ -67,6 +67,8 @@ cd CreditWise_Dashboard
 python -m pip install -r requierments.txt
 python -m streamlit run app.py
 ```
+## Live Demo
+https://creditwise-ai-dashboard.streamlit.app/
 
 ## Author
 Roshni Jaiswal
