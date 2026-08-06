@@ -64,11 +64,20 @@ CreditWise_Dashboard/
 ```bash
 git clone ...
 cd CreditWise_Dashboard
-python -m pip install -r requierments.txt
+pip install -r requierments.txt
+streamlit run app.py
+```
+If the above command doesn't work, use:
+```bash
+python -m pip install -r requirements.text
 python -m streamlit run app.py
 ```
+
 ## Live Demo
 https://creditwise-ai-dashboard.streamlit.app/
+
+## Github Repository
+https://github.com/roshnij26/Creditwise_Dashboard.git
 
 ## Author
 Roshni Jaiswal
